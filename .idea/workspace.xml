@@ -5,15 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5c70e50c-a865-4ba7-94c6-bd0dfb3a9555" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/postgresql_42_5_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/postgres_using_java.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day1/Dbfunction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day1/Getdata.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day2/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day1/Dbfunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day1/Dbfunction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day1/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +52,11 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="Day1" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -65,6 +67,12 @@
       <updated>1674848638075</updated>
       <workItem from="1674848639406" duration="1386000" />
       <workItem from="1674872336157" duration="32000" />
+      <workItem from="1674872425089" duration="536000" />
+      <workItem from="1674927400965" duration="4147000" />
+      <workItem from="1675007638741" duration="12000" />
+      <workItem from="1675064498213" duration="626000" />
+      <workItem from="1675096958808" duration="172000" />
+      <workItem from="1675272307800" duration="1829000" />
     </task>
     <servers />
   </component>
